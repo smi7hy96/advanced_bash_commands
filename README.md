@@ -6,9 +6,9 @@ The pattern is known as regular expressions (or Regex).
 
 ## Syntax
 
-'''bash
+```bash
 $ grep [options] pattern [files]
-'''
+```
 
 ## List of Options
 
